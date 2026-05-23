@@ -1,13 +1,15 @@
 # [Albert Endlich](https://www.linkedin.com/in/albertendlich)<br>
 
-### EN-US
+
+### English
 -  🧑‍🎓 **Software Engineering** student at UniCesumar
 -  ☕ Learning **Java**
 - 📖 *Building my tech foundation*
 
+
 ---
 
-### PT-BR
+### Português
 -  🧑‍🎓 Estudante de **Engenharia de Software** na UniCesumar
 -  ☕ Aprendendo **Java**
 - 📖 *Construindo minha base em tecnologia*
